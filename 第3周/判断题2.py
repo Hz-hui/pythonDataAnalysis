@@ -6,7 +6,5 @@ while i < 5:
     #if i == 4:
         #break
 
-
-
 else:
     print(10)
