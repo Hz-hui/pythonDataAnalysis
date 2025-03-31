@@ -48,7 +48,8 @@ def lda_vis(corpus, itof, tnum = 10):
                                            per_word_topics=True)
     # 输出每个话题的关键词
     for t in lda_model.print_topics():
-    	print(t)
+        print(t)
+
     return lda_model
 
 if __name__ == '__main__':
