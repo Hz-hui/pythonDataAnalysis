@@ -1,0 +1,1 @@
+print(image_query1.pearson_correlation(image_query2))
