@@ -19,3 +19,5 @@ foo()
 foo(1,2,3)
 foo([1,2,3])
 foo(one=1, two=2)
+
+print(' '.isalpha())
